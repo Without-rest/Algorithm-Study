@@ -15,7 +15,7 @@
 #### 풀이
   - [보영](./README.md)
   - [수연](./README.md)
-  - [수연](./README.md)
+  - [승현](./README.md)
   - [인호](../../풀이/인호/1주차/test.java)
   - [현화](./README.md)
  
