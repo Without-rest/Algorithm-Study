@@ -1,7 +1,7 @@
 // 구간 합 구하기 4 (실버3)
 // https://www.acmicpc.net/problem/11659
 // 처음 풀 때에는 하나하나 계산하도록 짰는데 시간초과 발생. 그래서 S_i - S_(j-1) 이용해서 풀이 (S_n은 0에서 n번째까지의 합, i는 구간 끝 인덱스, j는 구간 시작 인덱스) 
-public class ex01 {
+public class Main_003 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
