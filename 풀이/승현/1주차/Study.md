@@ -29,3 +29,58 @@
  
  ### 아스키 코드 참조(문자형->숫자/ 숫자-> 문자형 유용)        
    ![아스키코드](https://user-images.githubusercontent.com/79103761/203057101-9a8c14de-c280-4aca-8e67-3bc92edf7656.png)
+   
+   ### 구간 합 구하기
+
+구간 합
+
+: 기존 배열의 전처리한 배열 
+
+→ 합 배열을 이용하여 시간 복잡도를 더 줄이기 위해 사용하는 특수한 목적의 알고리즘이다.
+
+ O(N) → O(1)로 감소
+
+**합 배열 공식**
+
+S[i] = S[i-1] +A[i]
+
+**구간 합 공식**
+
+i번째에서 j번째까지 구간 합
+
+S[j] - S[i-1]
+
+## BufferReader 입출력 구현할 때 유용
+
+: 버퍼를 이용한 함수 → 입출력에 효율이 좋음
+
+Buffer 
+
+: 데이터를 한 곳에서 다른 한 곳으로 전송하는 동안 일시적으로 그 데이터를 보관하는 임시 영역
+
+BufferReader : 버퍼를 이용한 입력
+
+→ 데이터가 string으로 고정되기 때문에 데이터를 따로 가공해야 한다.
+
+→ readLine() 메소드를 통해 String을 입력받음
+
+→Integer.parseInt()로 형변환
+
+→ 공백을 포함하는 경우의 Int형
+
+1) String Tokenizer 이용 (Default = “”)
+
+2) String.split() 메소드 이용
+
+```java
+BufferReader br = new BufferReader(new InputStreamReader(System.in);
+Sr = br.readLine(); 
+```
+
+BufferWriter: 버퍼를 이용한 출력
+
+## StringTokenizer
+
+: 우리가 지정한 구분자로 문자열을 쪼개주는 클래스
+
+StringnextToken() : 존재하는 토큰 리턴
