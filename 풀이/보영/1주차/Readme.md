@@ -45,7 +45,6 @@ import java.util.*;
 ### 백준 11659번
 ![image](https://user-images.githubusercontent.com/49936027/203458160-904b4ce9-6f95-4de7-be22-99d2109411c9.png)
 
-- 
-- 
+- 뺄셈 / 이중 for문 outoflange뜨니 주의
 
 
