@@ -28,7 +28,8 @@ public class Main {
 
 #### 참고
 [charAt 함수] (https://colossus-java-practice.tistory.com/31)
-
+- chatAt 함수 반드시 알고 넘어가기
+- charArrary 도 알고 가면 좋음!
 
 ### 백준 1546번
 ![image](https://user-images.githubusercontent.com/49936027/203458080-490856eb-dde9-4ea6-bfe8-93f3f0ff4e48.png)
@@ -43,5 +44,8 @@ import java.util.*;
 
 ### 백준 11659번
 ![image](https://user-images.githubusercontent.com/49936027/203458160-904b4ce9-6f95-4de7-be22-99d2109411c9.png)
+
+- 
+- 
 
 
