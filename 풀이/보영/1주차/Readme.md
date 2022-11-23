@@ -1,4 +1,4 @@
-
+Mo
 ## 알고리즘 스터디 1주차
 
 ### 백준 11730번
@@ -33,7 +33,15 @@ public class Main {
 ### 백준 1546번
 ![image](https://user-images.githubusercontent.com/49936027/203458080-490856eb-dde9-4ea6-bfe8-93f3f0ff4e48.png)
 
+```
+import java.io.*;
+import java.util.*;
+
+```
+- int / int 하면 2도 int라서 int로 (소숫점이 버려짐)
+- int / double로 하면 doible
 
 ### 백준 11659번
 ![image](https://user-images.githubusercontent.com/49936027/203458160-904b4ce9-6f95-4de7-be22-99d2109411c9.png)
+
 
