@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// https://www.acmicpc.net/problem/2018
+// 수들의 합 5
 public class Ex006 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
