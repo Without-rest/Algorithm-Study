@@ -14,18 +14,18 @@ public class Baekjoon_10986 {
         int sum = 1;
 
         while(end_idx != N) {
-            if(sum == N) { //현재 연속된 합이 N과 같다
-                count ++;
-                end_idx ++;
+            if (sum == N) { //현재 연속된 합이 N과 같다
+                count++;
+                end_idx++;
                 sum += end_idx;
-            } else if (sum > N ) { //현재 연속된 합이 N보다 크다
+            } else if (sum > N) { //현재 연속된 합이 N보다 크다
                 sum -= start_idx;
                 start_idx++;
-            }else if (sum < N) { //현재 연속된 합이 N보다 작다
+            } else { //현재 연속된 합이 N보다 작다
                 end_idx++;
-                sum+=end_idx;
+                sum += end_idx;
             }
+        }
             System.out.println(count);
         }
     }
-}
