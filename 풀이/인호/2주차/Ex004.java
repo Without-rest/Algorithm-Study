@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 // https://www.acmicpc.net/problem/11660
 // 구간 합 구하기 5 실버 1
 // Scanner로 입력 받으니 시간초과 발생해서 BufferedReader 사용
-public class Main_221128_2 {
+public class Ex004 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
