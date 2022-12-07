@@ -17,9 +17,7 @@ public class Main011 {
             q.add(Integer.parseInt(br.readLine()));
         }
 
-        int idx=1;//스택에 초기값 하나 넣어줌
-        stack.add(idx);
-        answer.add("+");
+        int idx=0;
 
         while(!q.isEmpty()){    //입력값들을 모두 비교할때까지
             int num = q.peek();//입력값 하나 뺌(삭제X)
