@@ -116,3 +116,41 @@ priorityQueueLowest.element();
 // 초기화
 priorityQueueLowest.clear();
 ```
+
+### Comparator
+
+: 객체를 정렬하는데 필요한 메소드를 정의한 인터페이스.
+
+→ 인터페이스이므로 인터페이스 내에 선언된 메소드를 무조건 구현해야한다.(compare)
+
+파라미터로 들어온 두 객체를 비교
+
+```java
+Comparator<T> c = new Comparator<T>() {
+    @Override
+    public int compare(T o1, T o2) {
+        return 0;
+    }
+};
+```
+
+### compare()
+
+2개의 파라미터를 비교하여, 결과를 int형으로 반환
+
+```java
+Comparator<T> c = new Comparator<T>() {
+    @Override
+    
+    public int compare(T o1, T o2) {
+    	if( o1 > o2){
+        	return 1; 
+        } else if ( o1 < o2){
+        	return -1;
+        }else {
+		return 0;        
+        }   
+    }
+    
+};
+```
