@@ -180,3 +180,13 @@ Comparator<T> c = new Comparator<T>() {
 5. 꺼낸 노드를 탐색 순서에 기입,
 6. 인접 리스트의 인접 노드를 스택에 삽입
 7. 방문 배열 체크
+
+```java
+//ArrayList선언
+ArrayList<Integer>[] a = (ArrayList<Integer>[]) new ArrayList[n];
+
+//방문배열 선언
+Boolean[] visited = new Boolean[];
+```
+
+방향이 없는 그래프 → **양쪽 방향**으로 **에지를 모두 저장**
