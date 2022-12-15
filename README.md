@@ -21,4 +21,4 @@
 | 2주차 | [2주차](./문제/2주차/README.md) | 자료구조 | [004 구간 합 구하기 2](https://www.acmicpc.net/problem/11660) | [005 나머지 합 구하기](https://www.acmicpc.net/problem/10986) | [006 연속된 자연 수의 합 구하기](https://www.acmicpc.net/problem/2018) | `진행 완료` |  
 | 3주차 | [3주차](./문제/3주차/README.md) | 자료구조 | [007 주몽](https://www.acmicpc.net/problem/1940) | [009 DNA 비밀번호](https://www.acmicpc.net/problem/12891) | [011 스택 수열](https://www.acmicpc.net/problem/1874) | `진행 완료` |
 | 4주차 | [4주차](./문제/4주차/README.md) | 자료구조 | [013 카드](https://www.acmicpc.net/problem/2164) | [014 절댓값 힙](https://www.acmicpc.net/problem/11286) | [023 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | `진행 완료` |
-| 5주차 | [5주차](./문제/5주차/README.md) | 자료구조 | [001 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [002 ABCDE](https://www.acmicpc.net/problem/13023) | [003 바이러스](https://www.acmicpc.net/problem/2606) | `진행 중` |
+| 5주차 | [5주차](./문제/5주차/README.md) | DFS | [001 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [002 ABCDE](https://www.acmicpc.net/problem/13023) | [003 바이러스](https://www.acmicpc.net/problem/2606) | `진행 중` |
