@@ -37,8 +37,7 @@ public class Study_DFS_Recursion {
 ```
 
 2. Stack을 이용한 구현  
-```
-
+  
 ```
 import java.util.Stack;
 
@@ -89,12 +88,9 @@ public class Study_DFS_stack {
 
   
 ## 풀이
-### 001 
+### 001 게임 맵 최단거리
 
-1. 입력   
-2. 정렬  
-3. 슬라이딩 윈도우  
-4. 출력  
+
   
 
     
