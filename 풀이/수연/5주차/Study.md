@@ -102,3 +102,5 @@ public class Study_DFS_stack {
 <br>  
 
 ### 003 바이러스  
+node 1 컴퓨터가 감염됐을 때 감염되는 컴퓨터 수 구하기  
+=> birusCnt 전역변수로 선언 후, dfs 메소드 돌때마다 +1  
