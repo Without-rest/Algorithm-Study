@@ -1,9 +1,14 @@
 
-### 게임 맵 최단거리
+## 01 게임 맵 최단거리
 - 완전탐색 문제 (DFS/BFS)
 - 이 문제는 DFS 공부를 위해 풀었지만 BFS로 푸는게 효울적이다
 - DFS => 시간 소요
 - BFS => 얇게 빠르게 가능 
+
+### 참고할만한 문제와념개념
+https://continuous-development.tistory.com/176
+
+### 코드
 ```
 import java.util.*;
 class Solution {
