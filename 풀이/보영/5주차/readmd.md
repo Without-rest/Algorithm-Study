@@ -97,3 +97,9 @@ class Solution
 }
 ```
 
+
+## 03 웜바이러스
+- 바이러스에 감염된 컴퓨터와 인접한 컴퓨터부터 차례대로 감염된다는 언급 => BFS / DFS 
+
+### 인접 DFS 설명 잘되어 있는 곳 
+https://limkydev.tistory.com/93
