@@ -5,7 +5,7 @@
 - DFS => 시간 소요
 - BFS => 얇게 빠르게 가능 
 
-### 참고할만한 문제와념개념
+### 참고할만한 문제와 개념
 https://continuous-development.tistory.com/176
 
 ### 코드
