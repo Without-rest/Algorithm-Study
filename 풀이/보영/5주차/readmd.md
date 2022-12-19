@@ -9,7 +9,7 @@
 https://continuous-development.tistory.com/176
 
 ### 코드
-```
+```java
 import java.util.*;
 class Solution {
     public int solution(int[][] maps) {
