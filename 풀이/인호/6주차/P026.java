@@ -3,7 +3,7 @@ package baekjoon;
 import java.io.*;
 import java.util.*;
 
-public class P1260_221226 {
+public class P026 {
     static int N, M, V;
     static ArrayList<Integer>[] A;
     static boolean[] visited;
