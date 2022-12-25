@@ -1,9 +1,7 @@
-package baekjoon;
-
 import java.util.*;
 import java.io.*;
 
-public class P2178_221226 {
+public class P027 {
     static int N, M, answer;
     static Queue<int[]> queue = new LinkedList<>();
     static boolean[][] visited;
