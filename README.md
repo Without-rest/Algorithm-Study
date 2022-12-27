@@ -22,4 +22,6 @@
 | 3주차 | [3주차](./문제/3주차/README.md) | 자료구조 | [007 주몽](https://www.acmicpc.net/problem/1940) | [009 DNA 비밀번호](https://www.acmicpc.net/problem/12891) | [011 스택 수열](https://www.acmicpc.net/problem/1874) | `진행 완료` |
 | 4주차 | [4주차](./문제/4주차/README.md) | 자료구조 | [013 카드](https://www.acmicpc.net/problem/2164) | [014 절댓값 힙](https://www.acmicpc.net/problem/11286) | [023 연결 요소의 개수](https://www.acmicpc.net/problem/11724) | `진행 완료` |
 | 5주차 | [5주차](./문제/5주차/README.md) | DFS | [001 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [002 ABCDE](https://www.acmicpc.net/problem/13023) | [003 바이러스](https://www.acmicpc.net/problem/2606) | `진행 완료` |
-| 6주차 | [6주차](./문제/6주차/README.md) | BFS | [026 DFS와 BFS](https://www.acmicpc.net/problem/1260) | [027 미로탐색](https://www.acmicpc.net/problem/2178) | [028 단지번호 붙이기](https://www.acmicpc.net/problem/2667) | `진행 중` |
+| 6주차 | [6주차](./문제/6주차/README.md) | BFS | [026 DFS와 BFS](https://www.acmicpc.net/problem/1260) | [027 미로탐색](https://www.acmicpc.net/problem/2178) | [028 단지번호 붙이기](https://www.acmicpc.net/problem/2667) | `진행 완료` |
+| 7주차 | [7주차](./문제/7주차/README.md) | 이진탐색 | [029 원하는 정수찾기](https://www.acmicpc.net/problem/1920) | [030 블루레이 만들기](https://www.acmicpc.net/problem/2343) | [028 배열에서 K번째 수 찾기](https://www.acmicpc.net/problem/1300) | `진행 중` |
+
