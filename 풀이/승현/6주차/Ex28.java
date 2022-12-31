@@ -1,24 +1,20 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-
-/* 틀림 -> 수정해야함 */
 public class Baekjoon_2667 {
     static ArrayList<Integer> arr = new ArrayList<>();
-    static int N;
+    static int N, Num;
     static boolean[][] visited;
     static int [][] map;
-    static int dR[] = {1,-1,0,0};
+    static int dR[] = {-1,1,0,0};
     static int dC[] = {0,0,-1,1};
     //단지번호
-    static int Num;
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        StringBuffer sb = new StringBuffer();
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         //N*N 정사각형
@@ -31,7 +27,7 @@ public class Baekjoon_2667 {
             st = new StringTokenizer(br.readLine());
             String str = st.nextToken();
             for (int j = 0; j < N; j++) {
-                map[i][j] = str.charAt(i) - '0';
+                map[i][j] = Integer.parseInt(String.valueOf(str.charAt(j)));
             }
         }
 
@@ -39,17 +35,23 @@ public class Baekjoon_2667 {
             for (int j = 0; j < N; j++) {
                 if (map[i][j] == 1 && !visited[i][j]) {
                     Num = 1;
-                    DFS(i, j);
-                    arr.add(Num);
+                    arr.add(DFS(i, j));
                 }
             }
         }
 
         Collections.sort(arr);
-        System.out.println(arr.size());
-        for (int num : arr) System.out.println(num);
+
+        sb.append(arr.size()).append("\n");
+        for (int num : arr)  {
+            sb.append(num).append("\n");
+        }
+        bw.write(sb.toString());
+        bw.flush();
+        bw.close();
+        bw.close();
     }
-        public static void DFS(int x, int y) {
+        public static int DFS(int x, int y) {
             visited[x][y] = true;
             for(int i=0; i<4; i++) {
                 int nx = x+dR[i];
@@ -62,6 +64,7 @@ public class Baekjoon_2667 {
                     }
                 }
             }
+            return Num;
         }
     }
 
