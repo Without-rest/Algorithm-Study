@@ -5,7 +5,7 @@
 3. 인덱스 i와 j를 조정할 때마다 탐색 범위가 반으로 줄어든다.
 
 
-**구현 방법
+### 구현 방법
 1. 처음 범위는 인덱스 0부터 끝까지, 이 때 중간 인덱스 값을 mid라 한다.  
 2. mid의 값과 찾는 원소를 비교한다.  
   2-1. 찾는 원소와 mid의 값이 같다면 탐색 종료.  
@@ -15,7 +15,7 @@
   
   
   
-***반복문으로 구현
+##### 반복문으로 구현
 
 ```
 public static boolean BSearch(int[] arr, int n) {
@@ -35,7 +35,7 @@ public static boolean BSearch(int[] arr, int n) {
 ```
 
 
-***재귀로 구현
+##### 재귀로 구현
 
 ```
 public static boolean BSearchRecursive(int[] arr, int n, int left, int right) {
@@ -54,6 +54,6 @@ public static boolean BSearchRecursive(int[] arr, int n, int left, int right) {
 ```
 
 
-**시간복잡도   
+### 시간복잡도   
 - 순차적 탐색 : 최악의 경우 배열 끝까지 탐색해야한다. -> O(n)  
 - 이진 탐색 : 범위를 새로 정할 때 마다 탐색 범위가 1/2로 줄어든다. -> O(log n)  
