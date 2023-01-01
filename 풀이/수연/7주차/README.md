@@ -63,7 +63,8 @@ public static boolean BSearchRecursive(int[] arr, int n, int left, int right) {
 
 
   
-  
+*** 
+
 ### 풀이  
 ##### 1920. 수 찾기  
 1. 순차 탐색할 경우, 시간 복잡도 O(N)  
