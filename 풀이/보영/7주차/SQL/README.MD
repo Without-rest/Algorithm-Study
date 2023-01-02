@@ -12,7 +12,14 @@ GROUP BY FOOD_TYPE
 ORDER BY FOOD_TYPE DESC
 ```
 
-## 002 식품분류별 가장 비싼 식품의 정보 조회하기
+
+## 002 진료과별 총 예약 횟수 출력하기
+```sql
+
+```
+
+
+## 003 식품분류별 가장 비싼 식품의 정보 조회하기
 ```sql
 SELECT CATEGORY, PRICE, PRODUCT_NAME
 FROM FOOD_PRODUCT
@@ -22,3 +29,4 @@ WHERE PRICE IN (SELECT MAX(PRICE)
 AND CATEGORY IN ('과자','국','김치','식용유')
 ORDER BY PRICE DESC
 ```
+
