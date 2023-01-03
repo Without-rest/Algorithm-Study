@@ -28,6 +28,6 @@
 
 
 | **주차** | **주제** | **복습** | **문제 1**| **문제 2** | **문제 3** | **진행 현황** |
-| ------- | -----| --------- | --------- | --------- | --------- | -------- |
+| ------- | ------- | --------- | --------- | --------- | --------- | -------- |
 | [8주차](./문제/8주차/README.md) | 그리디 | [★ 랜선 자르기](https://www.acmicpc.net/problem/1654) | [032 동전 개수의 최솟값 구하기](https://www.acmicpc.net/problem/11047) | [035 회의실 배정하기](https://www.acmicpc.net/problem/1931) | [036 최솟값을 만드는 괄호 배치 찾기](https://www.acmicpc.net/problem/1541) | `진행 중` |
 | [2주차](./문제/SQL/JOIN/readme.md) | JOIN |  | [001 즐겨찾기가 가장 많은 식당 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [002 진료과별 총 예약 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [003 식품분류별 가장 비싼 식품 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | `진행 중` |
