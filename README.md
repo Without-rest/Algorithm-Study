@@ -26,9 +26,9 @@
 | 7주차 | [7주차](./문제/7주차/README.md) | 이진탐색 | [029 원하는 정수찾기](https://www.acmicpc.net/problem/1920) | [030 블루레이 만들기](https://www.acmicpc.net/problem/2343) | [028 배열에서 K번째 수 찾기](https://www.acmicpc.net/problem/1300) | `진행 완료` |
 
 
-| **주차** | **주제** | **복습** | **문제 1**| **문제 2** | **문제 3** | **진행 현황** |
-| ------- | ------- | --------- | --------- | --------- | --------- | -------- |
-| [8주차](./문제/8주차/README.md) | 그리디 | [★ 랜선 자르기](https://www.acmicpc.net/problem/1654) | [032 동전 개수의 최솟값 구하기](https://www.acmicpc.net/problem/11047) | [035 회의실 배정하기](https://www.acmicpc.net/problem/1931) | [036 최솟값을 만드는 괄호 배치 찾기](https://www.acmicpc.net/problem/1541) | `진행 중` |
+| **주차** | **폴더명** | **주제** | **복습** | **문제 1**| **문제 2** | **문제 3** | **진행 현황** |
+| -------| ------- | ------- | --------- | --------- | --------- | --------- | -------- |
+| 8주차 | [8주차](./문제/8주차/README.md) | 그리디 | [★ 랜선 자르기](https://www.acmicpc.net/problem/1654) | [032 동전 개수의 최솟값 구하기](https://www.acmicpc.net/problem/11047) | [035 회의실 배정하기](https://www.acmicpc.net/problem/1931) | [036 최솟값을 만드는 괄호 배치 찾기](https://www.acmicpc.net/problem/1541) | `진행 중` |
 
 
 
