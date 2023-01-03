@@ -35,6 +35,7 @@
 ### SQL : 프로그래머스 SQL 고득점 KIT
 - 프로그래머스 [SQL 고득점 KIT](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) 에서 매주 문제를 선별하여 풀이
 
-| **주차** | **폴더명**| **주제**| **문제 1**| **문제 2** | **문제 3** | **진행 현황** |
+| **주차** | **폴더명** | **주제** | **문제 1** | **문제 2** | **문제 3** | **진행 현황** |
+| ------- | -----| --------- | --------- | --------- | --------- | -------- |
 | 1주차 | [1주차](./문제/SQL/GROUPBY/readme.md) | GROUP BY | [001 즐겨찾기가 가장 많은 식당 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [002 진료과별 총 예약 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [003 식품분류별 가장 비싼 식품 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | `진행 완료` |
 | 2주차 | [2주차](./문제/SQL/JOIN/readme.md) | JOIN | [001 즐겨찾기가 가장 많은 식당 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [002 진료과별 총 예약 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [003 식품분류별 가장 비싼 식품 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | `진행 중` |
