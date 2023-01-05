@@ -1,4 +1,4 @@
-## 8주차
+## 8주차 정리
 
 ### MySQL 과 Oracle
 - Oracle의 TO_CHAR는 MySQL의 DATE_FORMAT과 대응된다.
