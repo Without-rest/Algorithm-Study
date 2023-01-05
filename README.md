@@ -42,4 +42,4 @@
 | **주차** | **폴더명** | **주제** | **문제 1** | **문제 2** | **문제 3** | **진행 현황** |
 | ------- | -----| --------- | --------- | --------- | --------- | -------- |
 | 1주차 | [1주차](./문제/SQL/GROUPBY/readme.md) | GROUP BY | [001 즐겨찾기가 가장 많은 식당 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [002 진료과별 총 예약 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [003 식품분류별 가장 비싼 식품 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | `진행 완료` |
-| 2주차 | [2주차](./문제/SQL/JOIN/README.MD) | JOIN | [001 즐겨찾기가 가장 많은 식당 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131123) | [002 진료과별 총 예약 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/132202) | [003 식품분류별 가장 비싼 식품 정보](https://school.programmers.co.kr/learn/courses/30/lessons/131116) | `진행 중` |
+| 2주차 | [2주차](./문제/SQL/JOIN/README.MD) | JOIN | [004 조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) | [005 그룹별 조건에 맞는 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131124) | [006 상품을 구매한 회원 비율 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131534) | `진행 중` |
