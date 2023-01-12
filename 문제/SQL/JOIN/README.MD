@@ -15,10 +15,10 @@ SELECT * FROM 테이블
 ```
 
 
-## 004 조건에 맞는 도서와 저자 리스트 출력하기
+## 007 주문량이 많은 아이스크림들 조회하기
 
 ### 문제 링크
-- Programmers) https://school.programmers.co.kr/learn/courses/30/lessons/144854
+- Programmers) [https://school.programmers.co.kr/learn/courses/30/lessons/144854](https://school.programmers.co.kr/learn/courses/30/lessons/133027)
 
 ### 문제
 '경제' 카테고리에 속하는 도서들의 도서 ID(BOOK_ID), 저자명(AUTHOR_NAME), 출판일(PUBLISHED_DATE) 리스트를 출력하는 SQL문을 작성해주세요.
@@ -32,10 +32,10 @@ SELECT * FROM 테이블
 
 
 
-## 005 그룹별 조건에 맞는 식당 목록 출력하기
+## 008 5월 식품들의 총매출 조회하기
 
 ### 문제 링크
-- Programmers) https://school.programmers.co.kr/learn/courses/30/lessons/131124
+- Programmers) [https://school.programmers.co.kr/learn/courses/30/lessons/131124](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
 
 ### 문제  
 MEMBER_PROFILE와 REST_REVIEW 테이블에서 리뷰를 가장 많이 작성한 회원의 리뷰들을 조회하는 SQL문을 작성해주세요. 회원 이름, 리뷰 텍스트, 리뷰 작성일이 출력되도록 작성해주시고, 결과는 리뷰 작성일을 기준으로 오름차순, 리뷰 작성일이 같다면 리뷰 텍스트를 기준으로 오름차순 정렬해주세요.
@@ -49,10 +49,10 @@ MEMBER_PROFILE와 REST_REVIEW 테이블에서 리뷰를 가장 많이 작성한 
 
 
 
-## 006 상품을 구매한 회원 비율 구하기
+## 009 보호소에서 중성화한 동물
 
 ### 문제 링크
-- Programmers) https://school.programmers.co.kr/learn/courses/30/lessons/131534
+- Programmers) [https://school.programmers.co.kr/learn/courses/30/lessons/131534](https://school.programmers.co.kr/learn/courses/30/lessons/59045)
   
 
 ### 문제
