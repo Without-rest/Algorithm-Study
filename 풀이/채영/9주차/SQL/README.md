@@ -1,5 +1,6 @@
 
-#007 주문량이 많은 아이스크림들 조회하기
+007 주문량이 많은 아이스크림들 조회하기
+---------------------------
 ~~~
 SELECT A.FLAVOR
   FROM FIRST_HALF A
@@ -12,7 +13,8 @@ SELECT A.FLAVOR
  LIMIT 3
 ~~~
 
-#008 5월 식품들의 총매출 조회하기
+008 5월 식품들의 총매출 조회하기
+---------------------------
 ~~~
 SELECT A.PRODUCT_ID
      , A.PRODUCT_NAME
@@ -25,7 +27,8 @@ SELECT A.PRODUCT_ID
  ORDER BY TOTAL_SALES DESC, B.PRODUCT_ID ASC
 ~~~
 
-#009 보호소에서 중성화한 동물
+009 보호소에서 중성화한 동물
+---------------------------
 ~~~
 SELECT A.ANIMAL_ID
      , A.ANIMAL_TYPE
